@@ -1,0 +1,25 @@
+Method Chaining in Python was a topic I found really interesting because of its ability to organize the code to process and
+wrangle data. Method chaining is when we modify a dataframe using a "chain" of pandas methods. The top to bottom execution
+makes the code very readable and understandable, all while running complex functions.
+
+Example 1:
+Exploratory Data Analyses have allowed me to understand how data is better understood and visualized in a way that benefits
+organizations and scientists. Extracting relevant information, wrangling data to better suit certain needs, and visualizing
+dataframes have given me an understanding of what a future career might look like in data science.
+
+Example 2:
+Learning Python was a valuable lesson taught to me in this course because of its ability to process data in a way that's
+readable. I never understood the reason to use Python, but now that I know its application to certain fields I will
+definitely continue learning and expanding my knowledge with it.
+
+Example 3:
+Dashboards are very useful when it comes to displaying information to the public. People who may not be able to read a
+complete EDA may need assistance of organized visualizations and explanations. This was valuable to learn since I will
+be working in a field where the communication of data to people who aren't educated with data science is common everyday.
+
+Deserved grade:
+I believe the work that I have done in this course has earned me a 90% evaluation. My background with programming was useful
+in understanding new concepts with data science, as I was able to apply my experience and grasp a deep understanding of them
+quickly. I worked on approaching
+The work I have done in the labs and the knowledge I've demonstrated on the tests earn me this evaluation, however my
+incompletion of select assignments over the semester may not backup this claim. 
